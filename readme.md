@@ -67,5 +67,3 @@ Add sound effects and animations.
 
 Increase difficulty over time by speeding up fruit fall rate.
 
-📄 License
-This project is open-source and available under the MIT License.
